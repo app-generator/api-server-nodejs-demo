@@ -6,6 +6,14 @@ Authentication Flow uses `json web tokens` via Passport library - `passport-jwt`
 
 <br />
 
+---
+
+👉 Learn how to [deploy this product LIVE on Render](https://youtu.be/3yWGhJiOWRc) using the [Python Deployer](https://github.com/app-generator/deploy-automation-render) (free tool)
+
+---
+
+<br />
+
 > Features:
 
 - ✅ [API Definition](https://docs.appseed.us/boilerplate-code/api-unified-definition) - the unified API structure implemented by this server
